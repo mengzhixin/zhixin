@@ -6,7 +6,7 @@
 <body>
 
 <?php
-print_r('hello, zhixin');
+//print_r('hello, zhixin');
 echo phpinfo();
 ?>
 </body>
